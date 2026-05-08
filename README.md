@@ -4,7 +4,7 @@ A machine learning web app that predicts whether a loan applicant
 will default based on financial and personal attributes.
 
 ## 🔗 Live Demo
-[Click here to try the app] https://loan-default-predictor-hqhcpnqzayxtrcksamtoz5.streamlit.app/
+[Click here to try the app](https://loan-default-predictor-hqhcpnqzayxtrcksamtoz5.streamlit.app/)
 
 ## 📌 Problem Statement
 Financial institutions lose billions due to loan defaults. 
